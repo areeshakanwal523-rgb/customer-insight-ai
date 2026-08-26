@@ -60,6 +60,10 @@ streamlit run app.py
 ## Business Use Case
 
 Businesses can use this application to quickly analyze large amounts of customer feedback and identify common problems and customer satisfaction.
+# Customer Insight AI
+
+ Live App:
+https://customer-insight-ai-zrvdkpdkbvelesmtehpek2.streamlit.app/
 
 ## Author
 
